@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="SkiaSharp" Version="2.88.8" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux.NoDependencies" Version="2.88.8" />
     <PackageReference Include="Uno.UI" Version="5.2.161" />
   </ItemGroup>
 
